@@ -1,0 +1,1 @@
+<osm version="0.6" generator="geojsontoosm"><node id="-1" lat="50.31518518603" lon="31.45970351105999"><tag k="addr:housenumber" v="31"/><tag k="addr:street" v="Гоголя вулиця"/></node><node id="-2" lat="50.31610018065" lon="31.45847211643"><tag k="addr:street" v="Гоголя вулиця"/><tag k="addr:housenumber" v="21"/></node></osm>
