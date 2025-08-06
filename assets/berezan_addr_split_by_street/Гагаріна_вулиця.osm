@@ -1,0 +1,1 @@
+<osm version="0.6" generator="geojsontoosm"><node id="-1" lat="50.31250231841001" lon="31.46596688642999"><tag k="addr:housenumber" v="5"/><tag k="addr:street" v="Гагаріна вулиця"/></node><node id="-2" lat="50.31220526484" lon="31.465341150169984"><tag k="addr:housenumber" v="5а"/><tag k="addr:street" v="Гагаріна вулиця"/></node></osm>
